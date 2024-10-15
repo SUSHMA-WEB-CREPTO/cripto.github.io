@@ -1,0 +1,13 @@
+[Objective-]
+
+The main objective of this project is to build a fully autonomous vehicle that can detect and avoid 
+obstacles in its path. The car will navigate without manual control, continuously sensing its 
+surroundings using an ultrasonic sensor to avoid collisions, thereby demonstrating simple autonomous 
+driving concepts
+
+[Given solution-]
+
+To achieve automatic obstacle avoidance, an Arduino Uno is programmed to process input from an 
+ultrasonic sensor, which detects obstacles by measuring the distance to nearby objects. When an 
+obstacle is detected within a specified range, the car’s motors and wheels are controlled to change 
+direction and avoid the obstacle. This system allows the vehicle to navigate dynamically in real 
