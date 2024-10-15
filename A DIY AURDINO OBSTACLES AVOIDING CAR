@@ -1,0 +1,7 @@
+(A DIY AURDINO OBSTATE AVOIDING CAR
+
+In an environment where autonomous navigation is essential, such as robotics or automated vehicles,
+one key challenge is ensuring safe movement without human intervention. Cars or robots need to detect 
+and avoid obstacles efficiently to prevent collisions and damage to both the environment and the 
+vehicle. This project aims to solve this problem by developing a low-cost, automatic obstacle-avoiding 
+car using an Arduino Uno as the microcontroller.
