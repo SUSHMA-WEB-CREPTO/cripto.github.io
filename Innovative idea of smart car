@@ -1,0 +1,9 @@
+[Innovative idea-]
+
+The innovative aspect of this project lies in its simplicity and adaptability. While basic obstacle 
+avoidance technology is widely used, this project demonstrates the capability to create a low-cost, 
+customizable, and scalable autonomous navigation system. The use of Arduino Uno and readily 
+available components allows for easy replication and enhancements. Additionally, by using a servo 
+motor to rotate the ultrasonic sensor, the car can scan a wider area, improving its ability to avoid 
+obstacles in real-time. This flexible design allows the project to be expanded with more advanced 
+features, such as line-following or GPS-based navigation, making it suitable for more complex
